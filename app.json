@@ -1,7 +1,7 @@
 {
-    "name": "Black Lightning - UserBot",
-    "description": "An advanced Telethon Userbot, from @keinshin",
-    "logo": "https://telegra.ph/file/d8d194c18562472a7c1f1.jpg",
+    "name": "UserBot",
+    "description": "An advanced Telethon Userbot",
+    "logo": "https://telegra.ph/file/ebab36e43c1c7b4246322.jpg",
     "keywords": [
      "telegram",
      "userbot",
@@ -9,9 +9,9 @@
      "modular",
      "productivity"
     ],
-    "repository": "https://github.com/KeinShin/Black-Lightning",
-    "website": "https://github.com/KeinShin/Black-Lightning",
-    "success_url": "https://t.me/blacklightningot",
+    "repository": "https://github.com/Selfie-bd/DcMtroidbot",
+    "website": "https://github.com/Selfie-bd/DcMtroidbot",
+    "success_url": "https://t.me/groupdcbots",
     "stack": "container",
     "env": {
      "APP_ID": {
@@ -33,12 +33,12 @@
      },
        "COMBINED_GROUP_ID": {
       "description": "This is all in one group id. just add @Missrose_bot to your private group and do /id",
-      "value": "",
+      "value": "-1001607198858",
       "required": true
      },
       "LIGHTNING_ALV_IMG": {
       "description": "To add another Alive pic, Leave blank for default. ",
-      "value": "",
+      "value": "https://telegra.ph/file/ebab36e43c1c7b4246322.jpg",
       "required": false
      }, 
       "HEROKU_API_KEY": {
@@ -48,7 +48,7 @@
      },
      "SUDO_USERS": {
       "description": "Users you want to give access to your bot. (Don't allow unknown people)",
-      "value": "",
+      "value": "1940030638",
       "required": false
      },
      "HEROKU_APP_NAME": {
@@ -68,7 +68,7 @@
      },
      "ALIVE_NAME": {
       "description": "Put Your Name you can use designer fonts. ",
-      "value": "",
+      "value": "Bala",
       "required": false
      }
     },
